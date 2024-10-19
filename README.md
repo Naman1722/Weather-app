@@ -47,4 +47,5 @@ For unambiguous results, you can make an API call using the city ID. The list of
     - *API CALL:* By using [API-CALL](https://api.openweathermap.org/data/2.5/weather?id={city id}&appid={API key})
 
 ## WEB VIEW
+You can check the web view on deployed [weather app](https://weather-app-theta-two-59.vercel.app/)
 
